@@ -1,0 +1,1 @@
+Version 2.0 (code named Socialites) introduces Carpool2day as a ride sharing platform with its release licensed under the open source New BSD License
